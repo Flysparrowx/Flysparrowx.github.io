@@ -1,4 +1,4 @@
-:HL["/_next/static/css/4b10fadc6578b4e4.css","style"]
+:HL["/_next/static/css/c8a60f77c6320df0.css","style"]
 :HL["/ollie-cover-v3.png","image"]
 :HL["/ollie-evolution-v2.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"1nFUvGcVAZ4YIAzqy3kCj"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"XMz01AcrZRTz58eSvl0Nh"}
